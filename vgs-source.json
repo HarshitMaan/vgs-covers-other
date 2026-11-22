@@ -1,0 +1,331 @@
+{
+ "schema": "vgs-source/2",
+ "source_id": "vgs-covers-other",
+ "updated": "2026-11-22T09:21:42+00:00",
+ "licence": {
+  "artwork_default": {
+   "redistribution": "unknown",
+   "attribution": "Box art from the LaunchBox Games Database community (gamesdb.launchbox-app.com). Artwork belongs to its publishers."
+  }
+ },
+ "shards": [
+  {
+   "platform": "32x",
+   "path": "manifest/32x.71d4924c.json",
+   "sha256": "71d4924c44cbff695d32624bf3995cc963700a278ee4e8e8bc6e0cdd8b7af9fc",
+   "games": 17
+  },
+  {
+   "platform": "3do-interactive-multiplayer",
+   "path": "manifest/3do-interactive-multiplayer.4fbb33fa.json",
+   "sha256": "4fbb33fa849fc9cc3734308addcd7a55eee458b9e255286780fcec323a31f93e",
+   "games": 1
+  },
+  {
+   "platform": "acorn-atom",
+   "path": "manifest/acorn-atom.425feb38.json",
+   "sha256": "425feb38ebaf091075cd9024b7d2dab769cee58aefc785e763b9c9eaec45c4b0",
+   "games": 1
+  },
+  {
+   "platform": "amstrad-cpc",
+   "path": "manifest/amstrad-cpc.0caf4d5b.json",
+   "sha256": "0caf4d5b3dfa108e5fc8a9e9185612635a84f4028b4307feb31cf5a877b0f936",
+   "games": 3
+  },
+  {
+   "platform": "apple-ii",
+   "path": "manifest/apple-ii.e0967f16.json",
+   "sha256": "e0967f169c0a6e67674a5ad9c8007d075d48eafd2b5735b9f3f3a7c0f37a2ff4",
+   "games": 1
+  },
+  {
+   "platform": "apple-iigs",
+   "path": "manifest/apple-iigs.2b2f84e8.json",
+   "sha256": "2b2f84e8f7dcc3ec5a3f4d724a8a20a6286e74c8a5d6cf3ac0ed65e61ce27133",
+   "games": 1
+  },
+  {
+   "platform": "arcade",
+   "path": "manifest/arcade.06a0aa93.json",
+   "sha256": "06a0aa9368ba9429e3fde80379290ff23419c8217148bd8251476a7463c380e9",
+   "games": 19
+  },
+  {
+   "platform": "atari-2600",
+   "path": "manifest/atari-2600.15b3ae85.json",
+   "sha256": "15b3ae854326955a46c400a99b79e166e97a8b081fa68abf97a467165eff05b7",
+   "games": 18
+  },
+  {
+   "platform": "atari-5200",
+   "path": "manifest/atari-5200.8a4e999a.json",
+   "sha256": "8a4e999afe8278e8d52c109288d597edb5ad657cff1fe6c97fb06f7b9be485e9",
+   "games": 11
+  },
+  {
+   "platform": "atari-7800",
+   "path": "manifest/atari-7800.7a06c8df.json",
+   "sha256": "7a06c8df47aebf7b282ed1439436bb16932a4629653769efbfb8f0ef5bfb53cb",
+   "games": 2
+  },
+  {
+   "platform": "atari-800",
+   "path": "manifest/atari-800.4575e3f1.json",
+   "sha256": "4575e3f1af738016e8c64f15f9af2235d9fa9cea5fc574820b062ab406b25ad3",
+   "games": 1
+  },
+  {
+   "platform": "atari-jaguar",
+   "path": "manifest/atari-jaguar.55ca8c7e.json",
+   "sha256": "55ca8c7e83ba1d3dc54d3ad8d687bf7877be9ae2b643fd77b33f24a38ce0e597",
+   "games": 4
+  },
+  {
+   "platform": "atari-jaguar-cd",
+   "path": "manifest/atari-jaguar-cd.351ace9b.json",
+   "sha256": "351ace9b59e72d39b58f92793f3ba38e4af3ca61888a1094a4e9ff8f21671624",
+   "games": 1
+  },
+  {
+   "platform": "atari-st",
+   "path": "manifest/atari-st.39d64f48.json",
+   "sha256": "39d64f48f68a7d7afbc19b39e54f50c14cbca1d96815cef23832733da7fee7c5",
+   "games": 1
+  },
+  {
+   "platform": "bbc-microcomputer-system",
+   "path": "manifest/bbc-microcomputer-system.b0ce1542.json",
+   "sha256": "b0ce1542c11788f58945e7ab229b72e468855d84684137168cc0472a3136ac3d",
+   "games": 1
+  },
+  {
+   "platform": "colecovision",
+   "path": "manifest/colecovision.b680dad4.json",
+   "sha256": "b680dad4c3c1935722d0f2efa9ee761b328f566271f2ee3a2e0da96682295d36",
+   "games": 2
+  },
+  {
+   "platform": "commodore-64",
+   "path": "manifest/commodore-64.644ba07d.json",
+   "sha256": "644ba07d9f4926228f7af9358c9f7e23b0467cdfa95de93898b426cab2d04bad",
+   "games": 1
+  },
+  {
+   "platform": "commodore-amiga",
+   "path": "manifest/commodore-amiga.30379132.json",
+   "sha256": "3037913244a7037a684bd8d644003a5d53f6f132bc78c5452c509061fabd6671",
+   "games": 1
+  },
+  {
+   "platform": "commodore-amiga-cd32",
+   "path": "manifest/commodore-amiga-cd32.fb19b2bb.json",
+   "sha256": "fb19b2bbb0d976f0bda435f74a4eea5b937378e51478133acfd8617c815aaabe",
+   "games": 1
+  },
+  {
+   "platform": "dc",
+   "path": "manifest/dc.baa5a5a9.json",
+   "sha256": "baa5a5a959fe84baa9606f07e1898d51b68544bb8ec1426cfcbf771262feeb08",
+   "games": 216
+  },
+  {
+   "platform": "fujitsu-fm-7",
+   "path": "manifest/fujitsu-fm-7.4f99fb47.json",
+   "sha256": "4f99fb47376d290ed8096066849aede4a5bda9b9812997176374ead5b16c2741",
+   "games": 1
+  },
+  {
+   "platform": "gamewave",
+   "path": "manifest/gamewave.dae01fdb.json",
+   "sha256": "dae01fdbb1eb81d48716a4920f61d4269bc673db0f45b21688f628d20592e5bb",
+   "games": 1
+  },
+  {
+   "platform": "genesis",
+   "path": "manifest/genesis.08c5460a.json",
+   "sha256": "08c5460afe4f7c5e1b99535566b1435c9415257a4cf1b9cd5b2f5c8a26cd6fa6",
+   "games": 207
+  },
+  {
+   "platform": "gg",
+   "path": "manifest/gg.7ddc55a1.json",
+   "sha256": "7ddc55a15510b6328c78d150a19cdd4abc22bcfe40b016280bbe253982c7cc78",
+   "games": 11
+  },
+  {
+   "platform": "mattel-hyperscan",
+   "path": "manifest/mattel-hyperscan.867c57d4.json",
+   "sha256": "867c57d4680e06044929b1deca6efbe06b0bdeeb9946f32bc58e2d4768f553ad",
+   "games": 1
+  },
+  {
+   "platform": "mattel-intellivision",
+   "path": "manifest/mattel-intellivision.c86b3678.json",
+   "sha256": "c86b36784dbf9d805af8c2f9fa26aa8051150f0703a8b71ac63da97eeb7966b2",
+   "games": 2
+  },
+  {
+   "platform": "microsoft-msx",
+   "path": "manifest/microsoft-msx.37e74413.json",
+   "sha256": "37e74413987cd413af82f7cd4cab35e3fc9ac4969885c39618f915fd760582aa",
+   "games": 1
+  },
+  {
+   "platform": "nec-turbografx-cd",
+   "path": "manifest/nec-turbografx-cd.7ae3509d.json",
+   "sha256": "7ae3509d2a094dd7a3c14b1d7642e59cdcd69fe5831a367909a326b74c881710",
+   "games": 3
+  },
+  {
+   "platform": "nokia-n-gage",
+   "path": "manifest/nokia-n-gage.70e79ad5.json",
+   "sha256": "70e79ad5d42868832d92d6ab5c63efe09e566d0914ffe3ddffb6f1f2208d0205",
+   "games": 1
+  },
+  {
+   "platform": "ouya",
+   "path": "manifest/ouya.5aff07a1.json",
+   "sha256": "5aff07a1cac50bfdb1bbfebee46c2873ea5beac204fc306187cc96a4401adcba",
+   "games": 1
+  },
+  {
+   "platform": "pc-engine-supergrafx",
+   "path": "manifest/pc-engine-supergrafx.c0d1a7b7.json",
+   "sha256": "c0d1a7b763e87a937dd7ea0bed8552c44ac66f875be505a03ca035494d29559c",
+   "games": 2
+  },
+  {
+   "platform": "sammy-atomiswave",
+   "path": "manifest/sammy-atomiswave.eb90706b.json",
+   "sha256": "eb90706bc847e80a5730fb85ea77c1ad353946419012ed60b4d87922894ae408",
+   "games": 3
+  },
+  {
+   "platform": "saturn",
+   "path": "manifest/saturn.947e4f21.json",
+   "sha256": "947e4f21ac99fb8e652d07ec911dfce1c1087ed4dd9781e93abc7321b7701390",
+   "games": 42
+  },
+  {
+   "platform": "sega-naomi",
+   "path": "manifest/sega-naomi.5fc2466e.json",
+   "sha256": "5fc2466edf7c70f8062aabadcb88fe210808e420ce0b4837d67b6b11e98129df",
+   "games": 1
+  },
+  {
+   "platform": "sega-sg-1000",
+   "path": "manifest/sega-sg-1000.7e0bd607.json",
+   "sha256": "7e0bd607ae53b2775d3d2b857a1b87a0f6a1ae092c407b1a8f0c86b5327562e2",
+   "games": 2
+  },
+  {
+   "platform": "sega-triforce",
+   "path": "manifest/sega-triforce.2e8c08f0.json",
+   "sha256": "2e8c08f0b6c77793ccc290450610fa199d02008426af211752eb5ede1db45e5a",
+   "games": 2
+  },
+  {
+   "platform": "segacd",
+   "path": "manifest/segacd.a9c34349.json",
+   "sha256": "a9c3434963c28851b6425914fbca6ab239d17239d73b29bfd65b3a9a44a0affc",
+   "games": 19
+  },
+  {
+   "platform": "sharp-x68000",
+   "path": "manifest/sharp-x68000.c08175c8.json",
+   "sha256": "c08175c863cdd7c3c8566324aca52335a1de6b36508aa8133bf647e0f5420eba",
+   "games": 2
+  },
+  {
+   "platform": "sms",
+   "path": "manifest/sms.a9cb8a2e.json",
+   "sha256": "a9cb8a2e27b6676c7dac22ed49f6a19172daeb3e4ba51223160284a947fbe41a",
+   "games": 49
+  },
+  {
+   "platform": "snk-neo-geo-aes",
+   "path": "manifest/snk-neo-geo-aes.61d7e9f4.json",
+   "sha256": "61d7e9f42e3550912ec944026bda1cfda5af122aaf96f6511f27c873ea2cba64",
+   "games": 22
+  },
+  {
+   "platform": "snk-neo-geo-cd",
+   "path": "manifest/snk-neo-geo-cd.33825f2d.json",
+   "sha256": "33825f2df12a3584d1fb9b1079f83828e772649289af5f6ab7fd0f0607dcc75c",
+   "games": 3
+  },
+  {
+   "platform": "snk-neo-geo-mvs",
+   "path": "manifest/snk-neo-geo-mvs.4480efad.json",
+   "sha256": "4480efad37ace251589841bbab89572da35118d12630cfaaa5265d5b723baa42",
+   "games": 6
+  },
+  {
+   "platform": "snk-neo-geo-pocket",
+   "path": "manifest/snk-neo-geo-pocket.36c86abd.json",
+   "sha256": "36c86abd5cca6c040339db632661d4d9fd9ae87486ee1b0acfd957461af31d5f",
+   "games": 3
+  },
+  {
+   "platform": "snk-neo-geo-pocket-color",
+   "path": "manifest/snk-neo-geo-pocket-color.30745bce.json",
+   "sha256": "30745bceb2d14f2c8338b8ad09eaf436d09bb24e1257dc01c18fd66324a787bb",
+   "games": 30
+  },
+  {
+   "platform": "taito-type-x",
+   "path": "manifest/taito-type-x.19ab1e3c.json",
+   "sha256": "19ab1e3cbb8ecb56d3b2c36a085e33bd03edb37ad8b557b12f07d202aa930cfd",
+   "games": 6
+  },
+  {
+   "platform": "tg16",
+   "path": "manifest/tg16.b88896b2.json",
+   "sha256": "b88896b2843221b3efd55bfad581ce02402adccdd060adaa621c7fc466c3bea5",
+   "games": 30
+  },
+  {
+   "platform": "wonderswan",
+   "path": "manifest/wonderswan.96854571.json",
+   "sha256": "968545713814161367a2d2d93376d1ea2873492f20081511893e14f8f75a5129",
+   "games": 4
+  },
+  {
+   "platform": "wonderswan-color",
+   "path": "manifest/wonderswan-color.6d970981.json",
+   "sha256": "6d970981eedba0778d0c9898ed28dffd9dc8bba63dbeb37bde97dbd9eea18ee3",
+   "games": 6
+  },
+  {
+   "platform": "x360",
+   "path": "manifest/x360.f20010a6.json",
+   "sha256": "f20010a67fc61440de859ac0443d6c75e9261ee4d7c5a1c749a6a96f06f6fe1f",
+   "games": 278
+  },
+  {
+   "platform": "xavixport",
+   "path": "manifest/xavixport.ea82d858.json",
+   "sha256": "ea82d858e711ed6a5c60490698c2939d799d524d6e9c21f7453acfd5a3b3f1e9",
+   "games": 1
+  },
+  {
+   "platform": "xbox",
+   "path": "manifest/xbox.88b0e792.json",
+   "sha256": "88b0e792f5142644116c4e5bd85280710cada20efc107fbb14dd7a3bde84bce8",
+   "games": 87
+  },
+  {
+   "platform": "xone",
+   "path": "manifest/xone.f700e710.json",
+   "sha256": "f700e710fe82d730ee6120c9eed0ac8734b11b502ccba7cd628a4aa2e17874bb",
+   "games": 18
+  },
+  {
+   "platform": "xsx",
+   "path": "manifest/xsx.be2f4615.json",
+   "sha256": "be2f46150cb23edcc5b19a7d7d97a5f423d633d4137af21f5236fb6495e1f69c",
+   "games": 1
+  }
+ ]
+}
